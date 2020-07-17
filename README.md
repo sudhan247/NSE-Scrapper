@@ -1,2 +1,2 @@
 # NSE-Scrapper
-Bulk Deals Historical Data’
+Bulk Deals Historical Data
